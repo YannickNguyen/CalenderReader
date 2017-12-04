@@ -1,0 +1,19 @@
+eventIntent tell me about event {number}
+eventIntent whats event {number}
+eventIntent number {number}
+eventIntent {number}
+GetNewFactIntent what meetings do i have {date}
+GetNewFactIntent what are my plans {date}
+GetNewFactIntent whats am i doing {date}
+GetNewFactIntent am I free {date}
+searchIntent get me stuff happening {date}
+searchIntent get me events for {date}
+searchIntent whats on {date}
+searchIntent {date}
+searchIntent for {date}
+searchIntent whats happening {date}
+searchIntent tell me whats happening {date}
+searchIntent what is happening {date}
+searchIntent what is happening on {date}
+searchIntent what events are happening {date}
+searchIntent what events are happening on {date}
